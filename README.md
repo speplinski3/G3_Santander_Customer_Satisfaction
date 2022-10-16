@@ -4,11 +4,12 @@
 ---
 ## Overview 
 * **Purpose:** To put data from a Airline Customer Satisfaction Survey through various Machine Learning Models to best predict passenger customer satisfaction. This helps the company better understand what goes into customer satisfaction in turn reducing customer churn.
+* **Communication Method** 
 * **Data Source:** https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 (Data Description)
 * Which machine learning model or deep learning model has a higher accuracy score when determining airline customer satisfaction?
 * Tools Used: 
-  *  `Pandas Library`, `Numpy`, 
+  *  `Pandas Library`, `Numpy`, `Scikitlearn`, `tensorflow`
   *  Visualization: `Matplotlib`, `Seaborn`
   
 ## Plan for Data Cleaning and Vizualization
@@ -16,3 +17,4 @@
 * Linear Regression
 * Neural Networks
 * Random Forest Classifier
+* Naive Bayes Classifier
