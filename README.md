@@ -8,6 +8,7 @@
 * **Data Source:** https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 (Data Description)
 * Which machine learning model or deep learning model has a higher accuracy score when determining airline customer satisfaction?
+* Which 5 variables are most influential in customer satisfaction?
 * Tools Used: 
   *  `Pandas Library`, `Numpy`, `Scikitlearn`, `tensorflow`
   *  Visualization: `Matplotlib`, `Seaborn`
