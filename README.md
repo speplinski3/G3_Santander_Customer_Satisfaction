@@ -19,4 +19,3 @@
 * Random Forest Classifier (Shanika)
 * Naive Bayes Classifier (Vimal)
 * Gradient Boosting (Wuyang)
->>>>>>> main
