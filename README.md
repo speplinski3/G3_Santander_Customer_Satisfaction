@@ -15,6 +15,7 @@
 ## Plan for Data Cleaning and Vizualization
 ## Models Used
 * Linear Regression
-* Neural Networks
-* Random Forest Classifier
-* Naive Bayes Classifier
+* Neural Networks (Irene)
+* Random Forest Classifier (Shanika)
+* Naive Bayes Classifier (Vimal)
+* Gradient Boosting (Wuyang)
