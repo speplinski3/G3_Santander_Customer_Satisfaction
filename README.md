@@ -30,4 +30,9 @@ All of our teammates will be trying out and testing different supervised ML and 
 |Naive Bayes Classifier|**Vimal**|
 |Gradient Boosting Classifier|**Wuyang**|
 
+## Communication Protocols
+
+* Teammates communicated via Slack, Zoom, & In-Person Collaboration
+---
+
 
