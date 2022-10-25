@@ -21,7 +21,7 @@
   
 ## Models Used
 
-However, we initally assigned the following models to each person: 
+We initally assigned the following models to each person: 
 
 |    *Model Type*     |    *Team Member*     | 
 | ------------- |:------------:|
