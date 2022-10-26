@@ -21,7 +21,7 @@
   
 ## Models Used
 
-All of our teammates will be trying out and testing different supervised ML and DL models for comparison of accuracy. However, we initally assigned the following models to each person: 
+We initally assigned the following models to each person: 
 
 |    *Model Type*     |    *Team Member*     | 
 | ------------- |:------------:|
