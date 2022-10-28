@@ -33,6 +33,10 @@ We initally assigned the following models to each person:
 ## Communication Protocols
 
 * Teammates communicated via Slack, Zoom, & In-Person Collaboration
----
 
+## Dashboard Tool
+
+* The team used Tableau to create our visual dashboard.
+
+---
 
