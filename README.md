@@ -36,7 +36,7 @@ We initally assigned the following models to each person:
 
 ## Dashboard Tool
 
-* The team used Tableau to create our visual dashboard.
+* The team used `Tableau` & `Google Slides` to create our visual dashboard.
 
 ---
 
