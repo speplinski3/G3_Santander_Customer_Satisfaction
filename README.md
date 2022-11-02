@@ -30,10 +30,6 @@ We initally assigned the following models to each person:
 |Naive Bayes Classifier|**Vimal**|
 |Gradient Boosting Classifier|**Wuyang**|
 
-## Communication Protocols
-
-* Teammates communicated via Slack, Zoom, & In-Person Collaboration
-
 ## Dashboard Tool
 
 * The team used [Tableau](https://public.tableau.com/app/profile/wuyang.wang/viz/Airline_Customer_Satisfaction_Analysis/CustomerSatisfactionAnalysis?publish=yes) & [Google Slides](https://docs.google.com/presentation/d/1KjyQhNFkqQIp0QXR0y714Po6Qtpt7E7ls_khFhIRVmg/edit?usp=sharing) to create our visual dashboard.
