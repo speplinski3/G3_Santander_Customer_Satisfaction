@@ -1,6 +1,0 @@
-select * from airline_customer_satisfaction
-limit 100;
-
-SELECT "Gender", satisfaction, count(satisfaction) as satisfaction_count
-from airline_customer_satisfaction
-group by "Gender", satisfaction;
